@@ -1,6 +1,6 @@
 # Portifolio
 ## Setup
-**Open this Link:**
+**To view web page open this Link:**
 <a href='https://asaftzabari.github.io/Portfolio/'>Portfolio<a/>
 ## or
 1. **Clone the Repository:**
