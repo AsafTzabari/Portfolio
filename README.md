@@ -2,7 +2,7 @@
 ## Setup
 **To view web page open this Link:**
 <a href='https://asaftzabari.github.io/Portfolio/'>Portfolio<a/>
-## or
+### or
 1. **Clone the Repository:**
    ```
    git clone https://github.com/AsafTzabari/Portfolio.git
